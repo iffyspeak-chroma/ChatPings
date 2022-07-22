@@ -1,0 +1,3 @@
+settings:
+  enable_pings: true
+  ping_prefix: "@"

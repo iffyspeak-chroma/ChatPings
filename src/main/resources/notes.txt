@@ -1,0 +1,15 @@
+Hi reader! This is just notes for me to visualize configuration and user preferences.... maybe permissions too.
+
+user-prefs:
+    2f081834-bfb9-4374-a0bc-eab8fb2514eb:
+        name: hmmAlyssiaa
+        enable_pings: true
+
+
+------------------------------------
+
+Permissions:
+    iffyspeak.chatpings - Access the command
+    iffyspeak.chatpings.version - See the version of the plugin
+    iffyspeak.chatpings.toggle - Toggle pings
+    iffyspeak.chatpings.reload - Allows reloading the plugin
